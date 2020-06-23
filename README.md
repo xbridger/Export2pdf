@@ -4,7 +4,7 @@ Xbridger export2pdf is an spfx extension for exporting lists and libraries metad
 
 Installation Instruction
 
-To get started, register for an API key at http://account.xbridger.com/login.
+To get started, register for an API key at http://account.xbridger.com/signup.
 
 Download the packaged file i.e. the sppkg  and upload to your app catalog.
 
